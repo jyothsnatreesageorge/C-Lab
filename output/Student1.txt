@@ -1,0 +1,6 @@
+Student 1
+Name:xx	Course:ca	Marks:98.000	CGPA:9.800
+Student 2
+Name:yy	Course:cb	Marks:89.000	CGPA:8.900
+Student 3
+Name:zz	Course:cc	Marks:95.000	CGPA:9.500

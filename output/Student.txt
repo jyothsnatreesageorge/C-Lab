@@ -1,0 +1,4 @@
+Printing the details entered
+Name:Jyothis
+Age:10
+CGPA:9.600
